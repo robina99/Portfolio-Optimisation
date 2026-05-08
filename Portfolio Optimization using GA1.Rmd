@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Optimization using GAs"
-author: "Robina Akinyi Rasanga"
+author: "Robina Akinyi"
 date: "2025-02-21"
 output:
   pdf_document: 
